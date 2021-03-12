@@ -1,0 +1,5 @@
+code: fragment1
+description: fragment1
+bundle-type: system-level-bundle
+components:
+  fragments: this_does_not_work
